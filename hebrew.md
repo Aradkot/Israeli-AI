@@ -21,7 +21,7 @@ Indexes and resource lists focused on Hebrew-language AI models, tooling, and ev
 
 | Project | Description | Stars |
 |---|---|---|
-| [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | Models, datasets and Spaces for English speech and text containing Hebrew words — Whisper-Hebrish, a Parakeet fine-tune in progress, and a Hebrew-in-Latin token classifier. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Code-Switching-Index?style=social) |
+| [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | Models, datasets, Spaces and a benchmark for English speech and text containing Hebrew words — Whisper-Hebrish, a released Parakeet code-switching fine-tune, a Hebrew-in-Latin token classifier, and an English-Hebrew code-switching ASR benchmark with leaderboard. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Code-Switching-Index?style=social) |
 
 ## Hebrew TTS Providers
 

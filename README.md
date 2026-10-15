@@ -209,7 +209,7 @@ Adjacent indexes maintained alongside this repo:
 |---|---|
 | [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models) | Index of AI/LLM models with Hebrew language support. |
 | [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | Broad index of Hebrew language projects across the AI/NLP ecosystem. |
-| [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | ASR fine-tunes, datasets and a token classifier for English speech/text containing Hebrew words (Hebrish). |
+| [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | ASR fine-tunes, datasets, a token classifier, and a code-switching ASR benchmark + leaderboard for English speech/text containing Hebrew words (Hebrish). |
 | [Hebrew TTS Providers](https://github.com/danielrosehill/Hebrew-TTS-Providers) | Index of text-to-speech providers and engines supporting Hebrew. |
 | [English ↔ Hebrew Translation](https://github.com/danielrosehill/English-Hebrew-Translation) | Resources for English ↔ Hebrew translation workflows. |
 | [Hebrew Calendar Resources](https://github.com/danielrosehill/Hebrew-Calendar-Resources) | Working with the Hebrew calendar. |
