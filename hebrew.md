@@ -17,6 +17,12 @@ Indexes and resource lists focused on Hebrew-language AI models, tooling, and ev
 | [Hebrew Language Projects Index](https://github.com/danielrosehill/Hebrew-Language-Projects-Index) | A broad index of Hebrew language projects across the AI/NLP ecosystem. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-Language-Projects-Index?style=social) |
 | [Hebrew LLMs](https://github.com/danielrosehill/Hebrew-LLMs) | Pathfinder index to Hebrew language LLMs published on Hugging Face. | ![](https://img.shields.io/github/stars/danielrosehill/Hebrew-LLMs?style=social) |
 
+## English-Hebrew Code-Switching
+
+| Project | Description | Stars |
+|---|---|---|
+| [English-Hebrew Code-Switching Index](https://github.com/danielrosehill/English-Hebrew-Code-Switching-Index) | Models, datasets and Spaces for English speech and text containing Hebrew words — Whisper-Hebrish, a Parakeet fine-tune in progress, and a Hebrew-in-Latin token classifier. | ![](https://img.shields.io/github/stars/danielrosehill/English-Hebrew-Code-Switching-Index?style=social) |
+
 ## Hebrew TTS Providers
 
 | Project | Description | Stars |
