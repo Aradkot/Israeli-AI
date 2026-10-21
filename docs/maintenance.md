@@ -1,7 +1,7 @@
 # Maintaining this index
 
 How to sweep for entries that belong here but are missing, and how to catch
-entries that have gone stale. Last run: **2026-07-25**.
+entries that have gone stale. Last run: **2026-10-21**.
 
 ## 1. Pull the full owned-repo list
 

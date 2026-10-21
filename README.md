@@ -10,7 +10,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
 
-*Last updated: 2026-10-15*
+*Last updated: 2026-10-21*
 
 ## Contents
 
@@ -107,6 +107,7 @@ Community-maintained collections of Israeli AI agent resources.
 | [Jewish AI Projects](https://github.com/danielrosehill/Jewish-AI-Projects) | Curated collection of technological projects for Jewish religious life — AI tools, Hebrew calendar, text study, MCP servers, home automation. | ![](https://img.shields.io/github/stars/danielrosehill/Jewish-AI-Projects?style=social) |
 | [Israeli Open Source Projects](https://github.com/danielrosehill/Israeli-Open-Source-Projects) | Sibling index casting a wider net than this one — Israeli open source across civic tech, finance, careers, real estate, media; useful inputs for AI projects. | ![](https://img.shields.io/github/stars/danielrosehill/Israeli-Open-Source-Projects?style=social) |
 | [Israel Open Data Resources](https://github.com/danielrosehill/Israel-Open-Data-Resources) | Open access Israeli data sources and data projects — grounding material for agents and analysis pipelines. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Open-Data-Resources?style=social) |
+| [Jerusalem AI](https://github.com/danielrosehill/Jerusalem-AI) | The city view of this index — AI in Jerusalem: research labs, companies, communities, events, people, municipal initiatives, and projects and datasets about the city. | ![](https://img.shields.io/github/stars/danielrosehill/Jerusalem-AI?style=social) |
 | [Israel Agent Skills Dev Index](https://github.com/danielrosehill/Israel-Agent-Skills-Dev-Index) | Index of work-in-progress Israel skills-development repos feeding into the Claude Israel Agent Skills plugin. | ![](https://img.shields.io/github/stars/danielrosehill/Israel-Agent-Skills-Dev-Index?style=social) |
 
 
@@ -124,6 +125,7 @@ Israeli AI communities, professional associations, and organizations supporting 
 | [Ivrit.ai](https://www.ivrit.ai/en/ivrit-ai-2/) | Open Hebrew speech and language datasets for AI research. |
 | [Dicta / DictaLM](https://dicta.org.il/dicta-lm) | Hebrew NLP research center and open-source Hebrew LLMs. |
 | [Data-IL](https://data-il.org/en/) | Israeli data science and AI community. |
+| [Hebrish](https://hebrish.app/) | English–Hebrew code-switching speech: on-device dictation that gets Hebrew words right in English speech, with a sibling TTS thread. Open models on [Hugging Face](https://huggingface.co/Hebrish). |
 
 ## Meetups
 
@@ -235,6 +237,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2026-10-15*
+*Last updated: 2026-10-21*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)

@@ -8,6 +8,7 @@ Indexes and resource lists focused on Hebrew-language AI models, tooling, and ev
 - [Open Hebrew LLM Leaderboard (Hugging Face)](https://huggingface.co/blog/leaderboard-hebrew) — Community leaderboard evaluating LLMs on Hebrew language tasks.
 - [RubyBot (rubybot.co.il)](https://rubybot.co.il/) — Hebrew-native AI chatbot.
 - [PolyLM (polylm.com)](https://www.polylm.com/) — Hebrew-native AI assistant / LLM product.
+- [Hebrish (hebrish.app)](https://hebrish.app/) — English–Hebrew code-switching speech: on-device English dictation (Android, Ubuntu, Windows) that writes Hebrew words like *makolet* or *kartis ashrai* in one consistent romanized spelling instead of guessing English, plus a sibling text-to-speech thread that voices romanized Hebrew as Hebrew. Free, no account. Models on [Hugging Face](https://huggingface.co/Hebrish); code at [Hebrish-ASR](https://github.com/Hebrish-ASR).
 
 ## Hebrew LLM Models
 
